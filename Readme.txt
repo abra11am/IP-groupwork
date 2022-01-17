@@ -1,7 +1,7 @@
 
 admin
-Username: admin_one
-Password: admin_one
+Username: admin
+Password: admin
 
 
 
